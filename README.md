@@ -1,7 +1,34 @@
+## Proces website update
+
+Voor mijn website ben ik begonnen met de basics waarin ik de posters heb gepositioneerd boven een bed, ook heb ik het bed zelf al neergezet en een zwarte achtergrond toegevoegd. Ik ben nu aan het werken in Dark-theme maar ik hou ook rekening met light theme.
+
+De posters heb ik zelf gemaakt, het zijn geen lastige designs, maar ik vond het zelf fijner, omdat ik hierdoor rekening kan houden met light en dark theme. Ook kan ik zelf ervoor zorgen dat de posters bij elkaar passen. Ik heb alle posters gemaakt in Illustrator.
+
+Ik heb tijdens het maken van de website als eerste de poster gepositioneerd zonder de posters zelf al toe te voegen, dat vond ik een makkelijker overzicht, later heb ik de posters gemaakt en toen in mijn website geplaatst.
+Dit was Voor het toevoegen van de posters:
+<img src="readme-images/Webbasis.png">
+
+Tot nu toe ziet mijn website er zo uit:
+<img src="readme-images/Webposters.png">
+
+Voor de volgende stap wil ik een pop-up toevoegen, maar dit lijkt nog erg lastig. Ik ga eerst de pop-up proberen te designen in Figma.
+
 ## 27 November - Les
 
-Zelf Evaluatie
+### Retrospect
+
+Zelf Evaluatie - We hebben in de les geevalueerd op ons proces tot nu toe, dat is hieronder beschreven
 <img src="readme-images/IMG_6782 2.HEIC">
+
+We hebben een aantal tekeningen beoordeeld gebaseerd op hoe goed ze passen bij de opdracht. Wij hebben de onderstaande beoordeling gemaakt, we hebben hierin gekeken in welke tekeningen goed gebruik gemaakt wordt van metaforen, hoeveel tekst ze hebben (niet te veel, niet te weinig) en ook een beetje op tekenskills.
+<img src="readme-images/Team.HEIC">
+
+Hierna heb ik een aantal scribbels veranderd in vogels, voorwerpen getekend met basisvormen en een grafiek gemaakt van hoe mijn proces tot nu toe is verlopen.
+<img src="readme-images/vogels.HEIC">
+<img src="readme-images/Grafiek.HEIC">
+
+Als laatste heb ik mijn eigen tekening van een metafoor gemaakt. Ik heb een hele zwakke pokemon, die al op zijn laatste leven zit getekend, hij zit in een battle tegen een zeer sterke legendary pokemon die nog helemaal gezond is. Oftewel - Ik heb het gevoel alsof ik vecht tegen iets wat veel sterker is dan ik.
+<img src="readme-images/Pokemon.HEIC">
 
 ## Checkout 25 November:
 
